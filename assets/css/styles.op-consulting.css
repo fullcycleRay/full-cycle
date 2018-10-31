@@ -48756,3 +48756,6 @@ p {
     border-top-color: #e0e8ec;
   }
 }
+.black-background {
+  background-color: black !important;
+}
